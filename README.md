@@ -6,6 +6,15 @@ publishedDate: 25/10/2022
 date: 25-10-2022
 ---
 
+## Introduction
+
+[GitHub](https://github.com/cdk-entest/transit-gateway-demo) shows how to
+
+- Inter-connect multiple VPC using TGW
+- Inter-region peering VPC using TGW
+- TGW table associationn and progpogation
+- TGW table static routes
+
 ## Architecture
 
 ![aws_devops-Expriment drawio(1)](https://user-images.githubusercontent.com/20411077/174024131-7f08741d-0c6a-4ed8-86b1-4e7b4af69002.png)
